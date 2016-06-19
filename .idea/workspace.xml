@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0b98e70-7eba-48fb-a40b-11a1f465d63e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__shoertz.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__shoertz.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec__shoertz.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test__shoertz.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -232,7 +228,11 @@
       <created>1466323043444</created>
       <updated>1466323043444</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;#&#10;# Initial commit&#10;#&#10;# Untracked files:&#10;#&#9;.gitignore&#10;#&#9;Gemfile&#10;#&#9;Gemfile.lock&#10;#&#9;README.rdoc&#10;#&#9;Rakefile&#10;#&#9;app/&#10;#&#9;bin/&#10;#&#9;config.ru&#10;#&#9;config/&#10;#&#9;db/&#10;#&#9;lib/&#10;#&#9;log/&#10;#&#9;public/&#10;#&#9;test/&#10;#&#9;vendor/&#10;#&#10;">
+      <created>1466323686142</created>
+      <updated>1466323686142</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -273,7 +273,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;#&#10;# Initial commit&#10;#&#10;# Untracked files:&#10;#&#9;.gitignore&#10;#&#9;Gemfile&#10;#&#9;Gemfile.lock&#10;#&#9;README.rdoc&#10;#&#9;Rakefile&#10;#&#9;app/&#10;#&#9;bin/&#10;#&#9;config.ru&#10;#&#9;config/&#10;#&#9;db/&#10;#&#9;lib/&#10;#&#9;log/&#10;#&#9;public/&#10;#&#9;test/&#10;#&#9;vendor/&#10;#&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;#&#10;# Initial commit&#10;#&#10;# Untracked files:&#10;#&#9;.gitignore&#10;#&#9;Gemfile&#10;#&#9;Gemfile.lock&#10;#&#9;README.rdoc&#10;#&#9;Rakefile&#10;#&#9;app/&#10;#&#9;bin/&#10;#&#9;config.ru&#10;#&#9;config/&#10;#&#9;db/&#10;#&#9;lib/&#10;#&#9;log/&#10;#&#9;public/&#10;#&#9;test/&#10;#&#9;vendor/&#10;#&#10;" />
+    <MESSAGE value="# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;#&#10;# Initial commit&#10;#&#10;# Untracked files:&#10;#&#9;.gitignore&#10;#&#9;Gemfile&#10;#&#9;Gemfile.lock&#10;#&#9;README.rdoc&#10;#&#9;Rakefile&#10;#&#9;app/&#10;#&#9;bin/&#10;#&#9;config.ru&#10;#&#9;config/&#10;#&#9;db/&#10;#&#9;lib/&#10;#&#9;log/&#10;#&#9;public/&#10;#&#9;test/&#10;#&#9;vendor/&#10;#&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;#&#10;# Initial commit&#10;#&#10;# Untracked files:&#10;#&#9;.gitignore&#10;#&#9;Gemfile&#10;#&#9;Gemfile.lock&#10;#&#9;README.rdoc&#10;#&#9;Rakefile&#10;#&#9;app/&#10;#&#9;bin/&#10;#&#9;config.ru&#10;#&#9;config/&#10;#&#9;db/&#10;#&#9;lib/&#10;#&#9;log/&#10;#&#9;public/&#10;#&#9;test/&#10;#&#9;vendor/&#10;#&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
